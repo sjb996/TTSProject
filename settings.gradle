@@ -1,1 +1,4 @@
-include ':app'
+include ':app',':CheXin',':Handi',':Igg',':okhttputils',':PickView',':storage',
+        ':ttsmoduleapi', ':TTSMoudleAddressApi' ,':ttsmoudlebaidumapapi',':ttsmoudlebaiduvoiceapi',
+        ':ttsmoudlehuanxinapi', ':ttsmoudleloginapi',':ttsmoudlesocializationapi',
+        ':ttsmoudletakecashapi',':weiboSDK'

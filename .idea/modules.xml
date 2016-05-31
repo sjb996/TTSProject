@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CheXin/CheXin.iml" filepath="$PROJECT_DIR$/CheXin/CheXin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Handi/Handi.iml" filepath="$PROJECT_DIR$/Handi/Handi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PickView/PickView.iml" filepath="$PROJECT_DIR$/PickView/PickView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TTSMoudleAddressApi/TTSMoudleAddressApi.iml" filepath="$PROJECT_DIR$/TTSMoudleAddressApi/TTSMoudleAddressApi.iml" />
       <module fileurl="file://$PROJECT_DIR$/TTSProject.iml" filepath="$PROJECT_DIR$/TTSProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Igg/igg.iml" filepath="$PROJECT_DIR$/Igg/igg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttputils/okhttputils.iml" filepath="$PROJECT_DIR$/okhttputils/okhttputils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storage/storage.iml" filepath="$PROJECT_DIR$/storage/storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ttsmoduleapi/ttsmoduleapi.iml" filepath="$PROJECT_DIR$/ttsmoduleapi/ttsmoduleapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ttsmoudlebaidumapapi/ttsmoudlebaidumapapi.iml" filepath="$PROJECT_DIR$/ttsmoudlebaidumapapi/ttsmoudlebaidumapapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ttsmoudlebaiduvoiceapi/ttsmoudlebaiduvoiceapi.iml" filepath="$PROJECT_DIR$/ttsmoudlebaiduvoiceapi/ttsmoudlebaiduvoiceapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ttsmoudlehuanxinapi/ttsmoudlehuanxinapi.iml" filepath="$PROJECT_DIR$/ttsmoudlehuanxinapi/ttsmoudlehuanxinapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ttsmoudleloginapi/ttsmoudleloginapi.iml" filepath="$PROJECT_DIR$/ttsmoudleloginapi/ttsmoudleloginapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ttsmoudlesocializationapi/ttsmoudlesocializationapi.iml" filepath="$PROJECT_DIR$/ttsmoudlesocializationapi/ttsmoudlesocializationapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ttsmoudletakecashapi/ttsmoudletakecashapi.iml" filepath="$PROJECT_DIR$/ttsmoudletakecashapi/ttsmoudletakecashapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weiboSDK/weiboSDK.iml" filepath="$PROJECT_DIR$/weiboSDK/weiboSDK.iml" />
     </modules>
   </component>
 </project>

@@ -9,13 +9,43 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CheXin" />
+            <option value="$PROJECT_DIR$/Handi" />
+            <option value="$PROJECT_DIR$/Igg" />
+            <option value="$PROJECT_DIR$/PickView" />
+            <option value="$PROJECT_DIR$/TTSMoudleAddressApi" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/okhttputils" />
+            <option value="$PROJECT_DIR$/storage" />
+            <option value="$PROJECT_DIR$/ttsmoduleapi" />
+            <option value="$PROJECT_DIR$/ttsmoudlebaidumapapi" />
+            <option value="$PROJECT_DIR$/ttsmoudlebaiduvoiceapi" />
+            <option value="$PROJECT_DIR$/ttsmoudlehuanxinapi" />
+            <option value="$PROJECT_DIR$/ttsmoudleloginapi" />
+            <option value="$PROJECT_DIR$/ttsmoudlesocializationapi" />
+            <option value="$PROJECT_DIR$/ttsmoudletakecashapi" />
+            <option value="$PROJECT_DIR$/weiboSDK" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CheXin" />
+            <option value="$PROJECT_DIR$/Handi" />
+            <option value="$PROJECT_DIR$/Igg" />
+            <option value="$PROJECT_DIR$/PickView" />
+            <option value="$PROJECT_DIR$/TTSMoudleAddressApi" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/okhttputils" />
+            <option value="$PROJECT_DIR$/storage" />
+            <option value="$PROJECT_DIR$/ttsmoduleapi" />
+            <option value="$PROJECT_DIR$/ttsmoudlebaidumapapi" />
+            <option value="$PROJECT_DIR$/ttsmoudlebaiduvoiceapi" />
+            <option value="$PROJECT_DIR$/ttsmoudlehuanxinapi" />
+            <option value="$PROJECT_DIR$/ttsmoudleloginapi" />
+            <option value="$PROJECT_DIR$/ttsmoudlesocializationapi" />
+            <option value="$PROJECT_DIR$/ttsmoudletakecashapi" />
+            <option value="$PROJECT_DIR$/weiboSDK" />
           </set>
         </option>
       </GradleProjectSettings>
